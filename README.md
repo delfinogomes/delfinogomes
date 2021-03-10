@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a fullstack developer working in Brazil.
+
+- 🌱 I’m currently learning spring-cloud technologies
+- ⚙️ I use daily: .java, .ts, .html
+- 📫 Reach me: twitter.com/delfinogomes
+- ⚡ Fun fact: I love scuba diving
+
 <!--
 **delfinogomes/delfinogomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
